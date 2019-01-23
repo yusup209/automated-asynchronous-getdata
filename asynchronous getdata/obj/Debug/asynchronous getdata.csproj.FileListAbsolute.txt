@@ -1,0 +1,14 @@
+C:\Users\Muhammad Yusup\Source\Repos\asynchronous getdata\asynchronous getdata\bin\Debug\asynchronous getdata.exe.config
+C:\Users\Muhammad Yusup\Source\Repos\asynchronous getdata\asynchronous getdata\bin\Debug\asynchronous getdata.exe
+C:\Users\Muhammad Yusup\Source\Repos\asynchronous getdata\asynchronous getdata\bin\Debug\asynchronous getdata.pdb
+C:\Users\Muhammad Yusup\Source\Repos\asynchronous getdata\asynchronous getdata\obj\Debug\asynchronous getdata.csprojAssemblyReference.cache
+C:\Users\Muhammad Yusup\Source\Repos\asynchronous getdata\asynchronous getdata\obj\Debug\asynchronous_getdata.Form1.resources
+C:\Users\Muhammad Yusup\Source\Repos\asynchronous getdata\asynchronous getdata\obj\Debug\asynchronous_getdata.Properties.Resources.resources
+C:\Users\Muhammad Yusup\Source\Repos\asynchronous getdata\asynchronous getdata\obj\Debug\asynchronous getdata.csproj.GenerateResource.cache
+C:\Users\Muhammad Yusup\Source\Repos\asynchronous getdata\asynchronous getdata\obj\Debug\asynchronous getdata.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Yusup\Source\Repos\asynchronous getdata\asynchronous getdata\obj\Debug\asynchronous getdata.exe
+C:\Users\Muhammad Yusup\Source\Repos\asynchronous getdata\asynchronous getdata\obj\Debug\asynchronous getdata.pdb
+C:\Users\Muhammad Yusup\Source\Repos\asynchronous getdata\asynchronous getdata\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Muhammad Yusup\Source\Repos\asynchronous getdata\asynchronous getdata\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Muhammad Yusup\Source\Repos\asynchronous getdata\asynchronous getdata\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Muhammad Yusup\Source\Repos\asynchronous getdata\asynchronous getdata\obj\Debug\asynchronous getdata.csproj.CopyComplete
